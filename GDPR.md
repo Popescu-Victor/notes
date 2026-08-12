@@ -9,3 +9,4 @@
 **processor** = processes the data on behalf of the controller (eg. cloud service used by a company to store the data)
 
 **profiling** = _"Any form of automated processing of personal data consisting of the use of personal data to evaluate certain personal aspects relating to a natural person, in particular to analyze or predict aspects concerning that natural persona's performance at work, economic situation, personal preferences, interests, reliability, behavior, location or movements."_
+**pseudoanonymisation** = _"personal data can no longer be attributed to a specific data subject without use of additional information, providing such additional information is kept separately and is subject to technical and organizational measures to ensure that the personal data are not attributed to a specific person"_
